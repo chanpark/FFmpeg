@@ -85,6 +85,8 @@
 #endif
 
 
+for (int i = 0; i < 10; i ++);
+
 #if HAVE_SYS_SELECT_H
 #include <sys/select.h>
 #endif
